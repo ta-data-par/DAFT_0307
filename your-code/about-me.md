@@ -1,6 +1,6 @@
 # Who am I
 
-* I am from Paris.
+* I am from Paris, France.
 * I am learning Data Analytics @IronHack Paris.
 * I don't have much experience with technology/data, but I am curious!
 
