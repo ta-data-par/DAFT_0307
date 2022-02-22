@@ -19,7 +19,7 @@ Below is a summary of the steps you will follow in this lab:
 1. Read the first task.
 2. Create a flowchart
 3. Save on GitHub
-4. Send the linh to TA
+4. Send the link to TA
 5. Go to the second task.
 6. Repeat steps 2-4
 
