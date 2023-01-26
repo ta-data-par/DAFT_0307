@@ -20,7 +20,8 @@ def game():
 
 #Welcome and choosing part
     delay_print('Welcome, please choose from the pokemons below:\n')
-    print('1.',Pokemon.Pokemon[0]['Name'],'2.',Pokemon.Pokemon[1]['Name'],"3.",Pokemon.Pokemon[2]['Name'])
+    print('1.',Pokemon.Pokemon[0]['Name'],'2.',Pokemon.Pokemon[1]['Name'],"3.",Pokemon.Pokemon[2]['Name'],
+    "4.", Pokemon.Pokemon[3]['Name'])
 
     pokemon1 = int(input("Please choose the first Pokemon: ")) -1
     pokemon2 = int(input("Please choose the second Pokemon: ")) -1
