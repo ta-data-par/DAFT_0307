@@ -30,4 +30,15 @@ Pokemon = [{
     'Move':[['Bite',35],['Surf',30]],
     'Attack':48 ,
     'Defense':65
+},
+
+{
+    'Name':'Pikachu',
+    'Speed': 90,
+    'Health': 35,
+    'Type':'Electric',
+    'Move':[['Thunderbolt',36],['Iron Tail',21]],
+    'Attack':55 ,
+    'Defense':30
+    
 }]
