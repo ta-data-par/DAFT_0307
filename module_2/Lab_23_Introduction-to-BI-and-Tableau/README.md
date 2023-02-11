@@ -16,10 +16,12 @@ To complete this lab, follow each of the steps below.
 2. Add the data set to your Google Drive.
 3. Launch the Tableau Public application.
 4. Import the data set from Google Sheets into Tableau.
-5. Once the data set has been imported, change the data type for the Year field to string.
-6. Create a new field called Quarter by [binning](https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_bins.htm) the month field using a bin size of 4.
-7. Create a new worksheet, drag the newly-created Quarter field into the Rows section, and drag the Number of Records measure to the center of the view. You will notice that the quarters are currently named labeled 0, 4, 8, 12. [Rename](https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_fieldproperties_aliases_ex1editing.htm) them more intuitively by right-clicking on the Quarter dimension, selecting Aliases and changing their names to Q1, Q2, Q3, and Q4 respectively.
-8. Create new worksheets with tabular views for each of the following metrics.
+5. Create a new calculated field called Year_Month as a date based on Year, Month and 1st of the month. 
+    - Use the drop down arrow on either the year or month column and select create calculated field
+    - Use the Date() function, and as input concatonate a date string in this format "YYYY-MM-DD" using the str() function with the provided year and month fields and a constant for the day
+6. Move to your first sheet
+7. Drag your newly created Year_Month calculated field to rows and click the [+] on the pill in rows so you see month the year and quarter.
+8. Create a new worksheet for each of the following tabular views:
     - Total Retail Sales by Year/Quarter (rows).
     - Average Retail Sales by Year/Quarter (rows).
     - Total Retail Sales by Year/Month (rows) and Item Type (columns).
@@ -32,7 +34,8 @@ To complete this lab, follow each of the steps below.
     - Average Warehouse Sales by Year/Quarter (rows).
     - Total Warehouse Sales by Year/Month (rows) and Item Type (columns).
     - Average Warehouse Sales by Year/Month (rows) and Item Type (columns).
-9. Save your work to Tableau Public, ensure that your workbook is viewable, and copy the URL for the workbook into the deliverables file for this lab. It might take several minutes for this workbook to save to Tableau Public due to the number of records in the data set.
+9. (Optional) Create a dashboard and bring all the sheets into the dashboard.
+10. Save your work to Tableau Public, ensure that your workbook is viewable, and copy the URL for the workbook into the deliverables file for this lab. It might take several minutes for this workbook to save to Tableau Public due to the number of records in the data set.
 
 ## Deliverables
 
