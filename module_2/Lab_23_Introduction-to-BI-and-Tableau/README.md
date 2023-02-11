@@ -20,7 +20,7 @@ To complete this lab, follow each of the steps below.
     - Use the drop down arrow on either the year or month column and select create calculated field
     - Use the Date() function, and as input concatonate a date string in this format "YYYY-MM-DD" using the str() function with the provided year and month fields and a constant for the day
 6. Move to your first sheet
-7. Drag your newly created Year_Month calculated field to rows and click the [+] on the pill in rows so you see month the year and quarter.
+7. Drag your newly created Year_Month calculated field to rows and click the [+] on the pill in rows so you see both the year and quarter.
 8. Create a new worksheet for each of the following tabular views:
     - Total Retail Sales by Year/Quarter (rows).
     - Average Retail Sales by Year/Quarter (rows).
