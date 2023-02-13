@@ -19,8 +19,10 @@ To complete this lab, follow each of the steps below:
  - Connect to your mySQL server, create a custom sql query that joins the tables together
  - In mySQL run a query that connects the tables together and export the results to a CSV, use this CSV for import
 
+_Note: Feel free to explore each way of connecting._
+
 2. Create calculated fields for: advance amount, sales amount, total amount - releating to the amounts gained by each author. 
-3. Create a visualisation showing off the the total amounts gained by each author, sorted in descending order - does this match up with your ealier work in SQL?
+3. Create a visualisation showing off the the total amounts gained by each author, sorted in descending order - does this match up with your results from the ealier work in SQL?
 4. Create 2 (or more) views/visualisations using this dataset, you decide what and how to show. 
 5. Create the dashboard that consists of these visualizations
 
