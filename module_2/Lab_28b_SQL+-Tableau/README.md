@@ -15,7 +15,8 @@ To complete this lab, follow each of the steps below:
 
 1. In sql workbench create the following views:
 
-```create view v_author_sales as (
+```sql
+create view v_author_sales as (
 select pa.au_id
 , sum(ps.qty) as sales_qty -- lets also bring through sales_qty
 , sum(pt.price * ps.qty * (pt.royalty / 100) * (pta.royaltyper / 100)) as author_sale_amount -- title price * sales quantity * royalty per author * royalty per author : summed to create gain through sales
@@ -23,15 +24,18 @@ from publications.authors pa
 left join publications.titleauthor pta on pa.au_id = pta.au_id
 left join publications.titles pt on pta.title_id = pt.title_id
 left join publications.sales ps on ps.title_id = pt.title_id
-group by 1)```
-
-```create view v_author_advance as (
+group by 1)
+```
+ 
+```sql
+create view v_author_advance as (
 select pa.au_id, concat(pa.au_fname, " ", pa.au_lname) as au_name
 , sum((pta.royaltyper / 100) * pt.advance) as author_advance_amount  -- royaltyper(author) is a percentage in integer format so we divide by 100 and multiply by the advance to get that authors share of the advance, we sum to total these advances
 from publications.authors pa
 left join publications.titleauthor pta on pa.au_id = pta.au_id
 left join publications.titles pt on pta.title_id = pt.title_id
-group by 1, 2)```
+group by 1, 2)
+```
 
  
 2. Using Tableau connect to a new server data source, select MySQL. (You will need your server details to connect)
