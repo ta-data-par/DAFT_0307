@@ -11,7 +11,7 @@
 - `WHERE`
 - `ORDER BY`
 - `GROUP BY`
-- `SUM`
+- `SUM`, `MAX`, `MIN`
 - `LIMIT`
 
 The Sql script is here: https://drive.google.com/file/d/1tT1OTdIgkI5tkeeXIsnZwMC5SxI1FE9m/view
