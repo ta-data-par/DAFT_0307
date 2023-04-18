@@ -9,7 +9,7 @@ Let's spend some time reviewing your code now that you know a little bit more ab
 * Add the code of your the game you coded in the first week of class into this lab folder. As it is, no changes! If you used *Jupyter Notebook* in your original project, your challenge in this lab is to change your project into a Python script, which means that you will turn your *.ipynb* file into a *.py* file.
 * Remember what you learnt during the lesson (good practices, clean code...).
 * Refactor your code! 
-* Do your pull request. It should include: your original project (in a *.py* file) and the refactored version of your project. 
+* Submit both the ".ipynb" and ".py" files
 
 ## Some hints
 * During the refactor, commit often and describe your changes (what did you change and why?)
