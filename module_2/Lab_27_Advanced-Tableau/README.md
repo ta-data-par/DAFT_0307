@@ -17,7 +17,7 @@ In this lab, we will practice more in Business Intelligence in Tableau
 5. Save answer in the readme
 
 Questions:
-1. What is the percent of total Sales for the ‘Home Office’ Customer Segment in July of 2012?
+**1. What is the percent of total Sales for the ‘Home Office’ Customer Segment in July of 2012?**
 
 a. 23.50%
 
@@ -27,7 +27,7 @@ c. 20.14%
 
 d. 32.56%
 
-2. Find the top 10 Product Names by Sales within each region. Which product is ranked #2 in both the Central
+**2. Find the top 10 Product Names by Sales within each region. Which product is ranked #2 in both the Central**
 & West regions in 2011?
 
 a. Riverside Palais Royal Lawyers Bookcase
@@ -38,7 +38,7 @@ c. Sharp AL-1530CS Digital Copier
 
 d. Global Troy Executive Leather Low Back Tilter
 
-3. In the Technology Product Category, which unprofitable state is surrounded by only profitable states?
+**3. In the Technology Product Category, which unprofitable state is surrounded by only profitable states?**
 
 a. Colorado
 
@@ -48,8 +48,8 @@ c. Wyoming
 
 d. Utah
 
-4. If 2013 Sales numbers were expected to increase by 50% in the following year, what would be the total
-estimated sales for the Consumer Segment in 2014?
+**4. If 2013 Sales numbers were expected to increase by 50% in the following year, what would be the total
+estimated sales for the Consumer Segment in 2014?**
 
 a. $4,278,540
 
@@ -59,7 +59,7 @@ c. $2,752,823
 
 d. $802,365
 
-5. In which Region do all Product Categories fall beneath the overall average profit?
+**5. In which Region do all Product Categories fall beneath the overall average profit?**
 
 a. All Regions
 
@@ -71,7 +71,7 @@ d. South
 
 e. West
 
-6. Which Product Sub-Category has a Shipping Cost to Sales ratio of above 3%?
+**6. Which Product Sub-Category has a Shipping Cost to Sales ratio of above 3%?**
 
 a. Tables
 
@@ -81,7 +81,7 @@ c. Paper
 
 d. Binders and Binder Accessories
 
-7. Find the customer with the lowest overall profit. What is his/her profit ratio?
+**7. Find the customer with the lowest overall profit. What is his/her profit ratio?**
 
 a. 2.35%
 
@@ -91,8 +91,8 @@ c. -17.54%
 
 d. -771.39%
 
-8. Determine which State in the Central Region has the highest distribution of profits using interquartile
-ranges.
+**8. Determine which State in the Central Region has the highest distribution of profits using interquartile
+ranges.**
 
 a. South Dakota
 
@@ -102,8 +102,8 @@ c. Minnesota
 
 d. Iowa
 
-9. Look at the sum of profits for each Product Sub-Category. Which sub-category is $31,069 below the
-average profit across all categories?
+**9. Look at the sum of profits for each Product Sub-Category. Which sub-category is $31,069 below the
+average profit across all categories?**
 
 a. Appliances
 
@@ -113,7 +113,7 @@ c. Envelopes
 
 d. Paper
 
-10. What percent of total profits do the top 10 customer by Sales represent?
+**10. What percent of total profits do the top 10 customer by Sales represent?**
 
 a. 3.50%
 
@@ -123,7 +123,7 @@ c. 17.54%
 
 d. None of the Above
 
-11. What was the Moving Average of Sales in June of 2012, including six months prior and six months after?
+**11. What was the Moving Average of Sales in June of 2012, including six months prior and six months after?**
 
 a. $101,752
 
@@ -133,8 +133,8 @@ c. $188,552
 
 d. $286,170
 
-12. Create a histogram showing the number of Sales using Sales Bins of $1,000. Which bins have profit ratios
-(profit as a percentage of sales) of more than 25%? (Select all that apply)
+**12. Create a histogram showing the number of Sales using Sales Bins of $1,000. Which bins have profit ratios
+(profit as a percentage of sales) of more than 25%? (Select all that apply)**
 
 a. 1,000
 
