@@ -17,6 +17,7 @@ In this lab, we will practice more in Business Intelligence in Tableau
 5. Save answer in the readme
 
 Questions:
+
 **1. What is the percent of total Sales for the ‘Home Office’ Customer Segment in July of 2012?**
 
 a. 23.50%
@@ -27,8 +28,8 @@ c. 20.14%
 
 d. 32.56%
 
-**2. Find the top 10 Product Names by Sales within each region. Which product is ranked #2 in both the Central**
-& West regions in 2011?
+**2. Find the top 10 Product Names by Sales within each region. Which product is ranked #2 in both the Central
+& West regions in 2011?**
 
 a. Riverside Palais Royal Lawyers Bookcase
 
