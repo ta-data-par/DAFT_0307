@@ -37,6 +37,7 @@ b. Bush Mission Pointe Library
 c. Sharp AL-1530CS Digital Copier
 
 d. Global Troy Executive Leather Low Back Tilter
+
 3. In the Technology Product Category, which unprofitable state is surrounded by only profitable states?
 
 a. Colorado
@@ -46,6 +47,7 @@ b. Missouri
 c. Wyoming
 
 d. Utah
+
 4. If 2013 Sales numbers were expected to increase by 50% in the following year, what would be the total
 estimated sales for the Consumer Segment in 2014?
 
