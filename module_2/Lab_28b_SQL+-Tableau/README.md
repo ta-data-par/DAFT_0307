@@ -57,7 +57,7 @@ Password: <<your MySQL server root password>>_
 6. Create a horizontal bar chart showing off the the total amounts gained by each author, sorted in descending order
 7. **(Optional)** Add some polish to the bar chart, consider:
   - Adding a label to the bars to show the amount
-  - Colors (On other or total, which looks best?)
+  - Colors (Try author dimension or total measure, which looks best?)
   - If we have the labels showing the amount, do we still need the axis? gridlines?
   - Text - font, size, format
 
