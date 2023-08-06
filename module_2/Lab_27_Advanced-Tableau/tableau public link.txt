@@ -1,0 +1,1 @@
+https://public.tableau.com/views/Lab_27_Advanced-Tableau_16910773255370/12_CreateahistogramshowingthenumberofSalesusingSalesBinsof1000_Whichbinshaveprofitratiosprofitasapercentageofsalesofmorethan25Selectallthatapply?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link

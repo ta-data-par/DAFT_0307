@@ -22,7 +22,7 @@ Questions:
 
 a. 23.50%
 
-b. 23.97%
+b. 23.97% ---> is the corect answer
 
 c. 20.14%
 
@@ -35,13 +35,13 @@ a. Riverside Palais Royal Lawyers Bookcase
 
 b. Bush Mission Pointe Library
 
-c. Sharp AL-1530CS Digital Copier
+c. Sharp AL-1530CS Digital Copier ---> is the corect answer
 
 d. Global Troy Executive Leather Low Back Tilter
 
 **3. In the Technology Product Category, which unprofitable state is surrounded by only profitable states?**
 
-a. Colorado
+a. Colorado ---> Yes
 
 b. Missouri
 
@@ -54,7 +54,7 @@ estimated sales for the Consumer Segment in 2014?**
 
 a. $4,278,540
 
-b. $816,999
+b. $816,999 ---> Yes
 
 c. $2,752,823
 
@@ -68,7 +68,7 @@ b. Central
 
 c. East
 
-d. South
+d. South---> Yes
 
 e. West
 
@@ -78,7 +78,7 @@ a. Tables
 
 b. Chairs & Chairmats
 
-c. Paper
+c. Paper---> Yes
 
 d. Binders and Binder Accessories
 
@@ -90,12 +90,12 @@ b. 1%
 
 c. -17.54%
 
-d. -771.39%
+d. -771.39%---> Yes Dean Solomon
 
 **8. Determine which State in the Central Region has the highest distribution of profits using interquartile
 ranges.**
 
-a. South Dakota
+a. South Dakota---> Yes
 
 b. North Dakota
 
@@ -112,13 +112,13 @@ b. Bookcases
 
 c. Envelopes
 
-d. Paper
+d. Paper---> Yes
 
 **10. What percent of total profits do the top 10 customer by Sales represent?**
 
 a. 3.50%
 
-b. 5.03%
+b. 5.03%---> Yes
 
 c. 17.54%
 
@@ -130,26 +130,26 @@ a. $101,752
 
 b. $180,036
 
-c. $188,552
+c. $188,552---> Yes
 
 d. $286,170
 
 **12. Create a histogram showing the number of Sales using Sales Bins of $1,000. Which bins have profit ratios
-(profit as a percentage of sales) of more than 25%? (Select all that apply)**
+(profit as a percentage of sales) of more than 25%? (Select all that apply)** (add an issue with the ctrl+drag and drop in filter shelf to choose min at 0.25)
 
 a. 1,000
 
 b. 3,000
 
-c. 7,000
+c. 7,000--> Yes 30.16%
 
-d. 8,000
+d. 8,000--> Yes 27.8%
 
 e. 10,000
 
-f. 11,000
+f. 11,000--> Yes 39.80%
 
-g. 18,000
+g. 18,000--> Yes 25.58%
 
 
 ## Part 2
