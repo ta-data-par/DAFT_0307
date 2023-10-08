@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab, we will practice creating a connection between Tableau and MySQL. Please note, we will use the publusher database/schema, introduced in an earlier lesson, if you do not have this database you can find the .sql script to load it here:
+In this lab, we will practice creating a connection between Tableau and MySQL. Please note, we will use the publisher database/schema, introduced in an earlier lesson, if you do not have this database you can find the .sql script to load it here:
 https://drive.google.com/drive/folders/1HgxUyyDCNP2URfMXfD6paGlLyAIwcHfZ
 
 
